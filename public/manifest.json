@@ -1,0 +1,10 @@
+{
+    "name": "Academy UIT",
+    "id": "/",
+    "short_name": "Academy UIT",
+    "description": "An Ed Tech Web App for Students and Instructors",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#2C333F",
+    "theme_color": "#001B22"
+}
